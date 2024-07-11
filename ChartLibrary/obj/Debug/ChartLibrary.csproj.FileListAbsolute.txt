@@ -1,0 +1,30 @@
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\ChartLibrary\bin\Debug\ChartLibrary.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\ChartLibrary\bin\Debug\ChartLibrary.pdb
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.csprojAssemblyReference.cache
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.csproj.CoreCompileInputs.cache
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.pdb
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.DonutChartControl.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.csproj.GenerateResource.cache
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\ChartLibrary.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\ChartLibrary.pdb
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\System.Memory.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\System.Memory.xml
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.csproj.AssemblyReference.cache
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.DonutChartControl.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.csproj.GenerateResource.cache
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\obj\Debug\ChartLib.E6066DAE.Up2Date
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\ChartLibrary\obj\Debug\ChartLibrary.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="supply_activity_app.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="pozitie" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">325, 175</Value>
+    </Setting>
+    <Setting Name="locmat" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">375, 175</Value>
+    </Setting>
+    <Setting Name="pref" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">325, 200</Value>
+    </Setting>
+    <Setting Name="locmacte" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">375, 200</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,197 @@
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.AddMaterialForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.EditMaterialForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.MaterialsForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.csproj.GenerateResource.cache
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.csproj.CoreCompileInputs.cache
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.AddProviderForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.ProvidersForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.MainForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.EditProviderForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.AddContractForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.EditContractForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.LoginForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\database.db
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\SQLitePCLRaw.core.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\System.Buffers.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\System.Memory.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\System.Numerics.Vectors.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\System.Buffers.xml
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\System.Memory.xml
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\System.Numerics.Vectors.xml
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.csproj.CopyComplete
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.csprojAssemblyReference.cache
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.Properties.Resources.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\supply_activity_app.exe.config
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\supply_activity_app.exe
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\bin\Debug\supply_activity_app.pdb
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.exe
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.pdb
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.SupportForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\activitatea_de_aprovizionare_proj\obj\Debug\supply_activity_app.InfoForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\database.db
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\supply_activity_app.exe.config
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\supply_activity_app.exe
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\supply_activity_app.pdb
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\SQLitePCLRaw.core.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\System.Buffers.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\System.Memory.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\System.Numerics.Vectors.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\System.Buffers.xml
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\System.Memory.xml
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\System.Numerics.Vectors.xml
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.csprojAssemblyReference.cache
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.AddContractForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.AddProviderForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.AddMaterialForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.EditContractForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.EditProviderForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.EditMaterialForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.InfoForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.ProvidersForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.LoginForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.MainForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.MaterialsForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.Properties.Resources.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.SupportForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.csproj.GenerateResource.cache
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.csproj.CoreCompileInputs.cache
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.csproj.CopyComplete
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.exe
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.pdb
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\obj\Debug\supply_activity_app.StatisticsForm.resources
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\ChartLibrary.dll
+D:\FACULTATE CSIE 2019-2022\CSIE an II\CSIE sem II\PAW\Seminar\PROIECT\supply_activity_app\bin\Debug\ChartLibrary.pdb
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\database.db
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\supply_activity_app.exe.config
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\supply_activity_app.exe
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\supply_activity_app.pdb
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\ChartLibrary.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\System.Buffers.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\System.Memory.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\ChartLibrary.pdb
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\System.Buffers.xml
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\System.Memory.xml
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.csproj.AssemblyReference.cache
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.AddContractForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.AddProviderForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.AddMaterialForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.EditContractForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.EditProviderForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.EditMaterialForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.InfoForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.ProvidersForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.LoginForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.MainForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.MaterialsForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.Properties.Resources.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.StatisticsForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.SupportForm.resources
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.csproj.GenerateResource.cache
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_a.50AC9348.Up2Date
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.exe
+C:\Users\Andrei\Source\Repos\Supply-Activity-App11111111111111\supply_activity_app\obj\Debug\supply_activity_app.pdb
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\database.db
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\supply_activity_app.exe.config
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\supply_activity_app.exe
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\supply_activity_app.pdb
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\ChartLibrary.dll
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\System.Buffers.dll
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\System.Memory.dll
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\ChartLibrary.pdb
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\System.Buffers.xml
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\System.Memory.xml
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Andrei\Desktop\supply_activity_app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.AddContractForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.AddProviderForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.AddMaterialForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.EditContractForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.EditProviderForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.EditMaterialForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.ProvidersForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.LoginForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.MainForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.MaterialsForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.Properties.Resources.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.StatisticsForm.resources
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_a.50AC9348.Up2Date
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.exe
+C:\Users\Andrei\Desktop\supply_activity_app\obj\Debug\supply_activity_app.pdb
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\database.db
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\supply_activity_app.exe.config
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\supply_activity_app.exe
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\supply_activity_app.pdb
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\ChartLibrary.dll
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\System.Buffers.dll
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\System.Memory.dll
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\ChartLibrary.pdb
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\System.Buffers.xml
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\System.Memory.xml
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lori\Desktop\supply_activity_app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.csproj.AssemblyReference.cache
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.AddContractForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.AddProviderForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.AddMaterialForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.EditContractForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.EditProviderForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.EditMaterialForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.ProvidersForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.LoginForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.MainForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.MaterialsForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.Properties.Resources.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.StatisticsForm.resources
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.csproj.GenerateResource.cache
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.csproj.CoreCompileInputs.cache
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.csproj.CopyComplete
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.exe
+C:\Users\Lori\Desktop\supply_activity_app\obj\Debug\supply_activity_app.pdb
